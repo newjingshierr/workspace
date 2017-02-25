@@ -1,0 +1,11 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Hello.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files *.*"
+  },
+  "author": "",
+  "license": "ISC"
+}
