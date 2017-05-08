@@ -5119,3 +5119,363 @@ Method - DocProptypeGetItems
 2017-05-08 10:16:49,293 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Start listen...
 2017-05-08 13:34:25,144 [4]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server stop listening...
 2017-05-08 13:34:25,146 [4]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server stopped
+2017-05-08 14:05:36,724 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Init by SocketMethodElementCollection: Akmii.ServiceCenter.Config.SocketMethodElementCollection
+2017-05-08 14:05:36,734 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Type Akmii.YeeOffice.Document.Service.SocketServer loaded with methods:
+2017-05-08 14:05:36,735 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavoritesInsert inited.
+2017-05-08 14:05:36,735 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavoritesDelete inited.
+2017-05-08 14:05:36,735 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocGetFavouriteStatusByYGDocSPGUIDS inited.
+2017-05-08 14:05:36,735 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavGetMyFav inited.
+2017-05-08 14:05:36,735 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_GetByPage_MyDeleted inited.
+2017-05-08 14:05:36,735 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_GetByPageMyUpLoad inited.
+2017-05-08 14:05:36,736 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_RenameItem inited.
+2017-05-08 14:05:36,736 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_RestoreRecycleItems inited.
+2017-05-08 14:05:36,736 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocDeleteGUIDS inited.
+2017-05-08 14:05:36,736 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocDeleteRecycle inited.
+2017-05-08 14:05:36,736 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocEmptyRecycle inited.
+2017-05-08 14:05:36,736 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfoInsert inited.
+2017-05-08 14:05:36,736 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryInsert inited.
+2017-05-08 14:05:36,736 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryUpdate inited.
+2017-05-08 14:05:36,737 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryDelete inited.
+2017-05-08 14:05:36,737 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryGetItems inited.
+2017-05-08 14:05:36,737 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryGetItem inited.
+2017-05-08 14:05:36,737 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryOwnerInsert inited.
+2017-05-08 14:05:36,737 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryOwnerDelete inited.
+2017-05-08 14:05:36,737 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeInsert inited.
+2017-05-08 14:05:36,737 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeUpdate inited.
+2017-05-08 14:05:36,737 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeDelete inited.
+2017-05-08 14:05:36,738 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeGetItem inited.
+2017-05-08 14:05:36,738 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeGetItems inited.
+2017-05-08 14:05:36,738 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method SocketInitContext is not loaded due to incompatibility. Retuen type:Akmii.YeeOffice.Document.Service.ManageContext Param Count:1
+2017-05-08 14:05:36,739 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method SocketInitContext is not loaded due to incompatibility. Retuen type:Akmii.YeeOffice.Document.Service.ManageContext Param Count:1
+2017-05-08 14:05:36,739 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Init completed with 24 methods.
+2017-05-08 14:05:36,740 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - SocketServer initialized with settings: SocketServerSettings - maxNumberOfConnections:4000 maxSimultaneousAcceptOps:10 backlog:10 excessSaeaObjectsInPool:1 receivePrefixLength:4 sendPrefixLength:4 bufferSize:1024 maxDataLength: 10485760
+socketMethods 24:
+Method - DocFavoritesInsert
+Method - DocFavoritesDelete
+Method - DocGetFavouriteStatusByYGDocSPGUIDS
+Method - DocFavGetMyFav
+Method - DocInfo_GetByPage_MyDeleted
+Method - DocInfo_GetByPageMyUpLoad
+Method - DocInfo_RenameItem
+Method - DocInfo_RestoreRecycleItems
+Method - DocDeleteGUIDS
+Method - DocDeleteRecycle
+Method - DocEmptyRecycle
+Method - DocInfoInsert
+Method - DocLibraryInsert
+Method - DocLibraryUpdate
+Method - DocLibraryDelete
+Method - DocLibraryGetItems
+Method - DocLibraryGetItem
+Method - DocLibraryOwnerInsert
+Method - DocLibraryOwnerDelete
+Method - DocProptypeInsert
+Method - DocProptypeUpdate
+Method - DocProptypeDelete
+Method - DocProptypeGetItem
+Method - DocProptypeGetItems
+2017-05-08 14:05:36,742 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server WIN-QMM13OOG62D endpoint = 0.0.0.0:20000
+2017-05-08 14:05:36,744 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Starting creation of receive/send SocketAsyncEventArgs pool
+2017-05-08 14:05:36,779 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Start listen...
+2017-05-08 14:12:23,037 [8]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server stop listening...
+2017-05-08 14:12:23,042 [8]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server stopped
+2017-05-08 14:12:36,776 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Init by SocketMethodElementCollection: Akmii.ServiceCenter.Config.SocketMethodElementCollection
+2017-05-08 14:12:36,787 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Type Akmii.YeeOffice.Document.Service.SocketServer loaded with methods:
+2017-05-08 14:12:36,788 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavoritesInsert inited.
+2017-05-08 14:12:36,788 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavoritesDelete inited.
+2017-05-08 14:12:36,788 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocGetFavouriteStatusByYGDocSPGUIDS inited.
+2017-05-08 14:12:36,788 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavGetMyFav inited.
+2017-05-08 14:12:36,788 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_GetByPage_MyDeleted inited.
+2017-05-08 14:12:36,789 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_GetByPageMyUpLoad inited.
+2017-05-08 14:12:36,789 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_RenameItem inited.
+2017-05-08 14:12:36,789 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_RestoreRecycleItems inited.
+2017-05-08 14:12:36,789 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocDeleteGUIDS inited.
+2017-05-08 14:12:36,790 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocDeleteRecycle inited.
+2017-05-08 14:12:36,790 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocEmptyRecycle inited.
+2017-05-08 14:12:36,790 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfoInsert inited.
+2017-05-08 14:12:36,791 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryInsert inited.
+2017-05-08 14:12:36,791 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryUpdate inited.
+2017-05-08 14:12:36,791 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryDelete inited.
+2017-05-08 14:12:36,792 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryGetItems inited.
+2017-05-08 14:12:36,792 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryGetItem inited.
+2017-05-08 14:12:36,792 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryOwnerInsert inited.
+2017-05-08 14:12:36,792 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryOwnerDelete inited.
+2017-05-08 14:12:36,793 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeInsert inited.
+2017-05-08 14:12:36,793 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeUpdate inited.
+2017-05-08 14:12:36,793 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeDelete inited.
+2017-05-08 14:12:36,793 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeGetItem inited.
+2017-05-08 14:12:36,793 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeGetItems inited.
+2017-05-08 14:12:36,793 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method SocketInitContext is not loaded due to incompatibility. Retuen type:Akmii.YeeOffice.Document.Service.ManageContext Param Count:1
+2017-05-08 14:12:36,794 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method SocketInitContext is not loaded due to incompatibility. Retuen type:Akmii.YeeOffice.Document.Service.ManageContext Param Count:1
+2017-05-08 14:12:36,794 [7]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Init completed with 24 methods.
+2017-05-08 14:12:36,796 [7]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - SocketServer initialized with settings: SocketServerSettings - maxNumberOfConnections:4000 maxSimultaneousAcceptOps:10 backlog:10 excessSaeaObjectsInPool:1 receivePrefixLength:4 sendPrefixLength:4 bufferSize:1024 maxDataLength: 10485760
+socketMethods 24:
+Method - DocFavoritesInsert
+Method - DocFavoritesDelete
+Method - DocGetFavouriteStatusByYGDocSPGUIDS
+Method - DocFavGetMyFav
+Method - DocInfo_GetByPage_MyDeleted
+Method - DocInfo_GetByPageMyUpLoad
+Method - DocInfo_RenameItem
+Method - DocInfo_RestoreRecycleItems
+Method - DocDeleteGUIDS
+Method - DocDeleteRecycle
+Method - DocEmptyRecycle
+Method - DocInfoInsert
+Method - DocLibraryInsert
+Method - DocLibraryUpdate
+Method - DocLibraryDelete
+Method - DocLibraryGetItems
+Method - DocLibraryGetItem
+Method - DocLibraryOwnerInsert
+Method - DocLibraryOwnerDelete
+Method - DocProptypeInsert
+Method - DocProptypeUpdate
+Method - DocProptypeDelete
+Method - DocProptypeGetItem
+Method - DocProptypeGetItems
+2017-05-08 14:12:36,798 [7]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server WIN-QMM13OOG62D endpoint = 0.0.0.0:20000
+2017-05-08 14:12:36,799 [7]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Starting creation of receive/send SocketAsyncEventArgs pool
+2017-05-08 14:12:36,836 [7]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Start listen...
+2017-05-08 14:33:31,507 [4]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server stop listening...
+2017-05-08 14:33:31,510 [4]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server stopped
+2017-05-08 14:33:48,278 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Init by SocketMethodElementCollection: Akmii.ServiceCenter.Config.SocketMethodElementCollection
+2017-05-08 14:33:48,288 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Type Akmii.YeeOffice.Document.Service.SocketServer loaded with methods:
+2017-05-08 14:33:48,289 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavoritesInsert inited.
+2017-05-08 14:33:48,289 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavoritesDelete inited.
+2017-05-08 14:33:48,289 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocGetFavouriteStatusByYGDocSPGUIDS inited.
+2017-05-08 14:33:48,289 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavGetMyFav inited.
+2017-05-08 14:33:48,289 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_GetByPage_MyDeleted inited.
+2017-05-08 14:33:48,289 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_GetByPageMyUpLoad inited.
+2017-05-08 14:33:48,289 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_RenameItem inited.
+2017-05-08 14:33:48,290 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_RestoreRecycleItems inited.
+2017-05-08 14:33:48,290 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocDeleteGUIDS inited.
+2017-05-08 14:33:48,290 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocDeleteRecycle inited.
+2017-05-08 14:33:48,290 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocEmptyRecycle inited.
+2017-05-08 14:33:48,290 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfoInsert inited.
+2017-05-08 14:33:48,290 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryInsert inited.
+2017-05-08 14:33:48,290 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryUpdate inited.
+2017-05-08 14:33:48,291 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryDelete inited.
+2017-05-08 14:33:48,291 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryGetItems inited.
+2017-05-08 14:33:48,291 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryGetItem inited.
+2017-05-08 14:33:48,291 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryOwnerInsert inited.
+2017-05-08 14:33:48,291 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryOwnerDelete inited.
+2017-05-08 14:33:48,291 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeInsert inited.
+2017-05-08 14:33:48,291 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeUpdate inited.
+2017-05-08 14:33:48,292 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeDelete inited.
+2017-05-08 14:33:48,292 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeGetItem inited.
+2017-05-08 14:33:48,292 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeGetItems inited.
+2017-05-08 14:33:48,292 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method SocketInitContext is not loaded due to incompatibility. Retuen type:Akmii.YeeOffice.Document.Service.ManageContext Param Count:1
+2017-05-08 14:33:48,293 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method SocketInitContext is not loaded due to incompatibility. Retuen type:Akmii.YeeOffice.Document.Service.ManageContext Param Count:1
+2017-05-08 14:33:48,293 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Init completed with 24 methods.
+2017-05-08 14:33:48,294 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - SocketServer initialized with settings: SocketServerSettings - maxNumberOfConnections:4000 maxSimultaneousAcceptOps:10 backlog:10 excessSaeaObjectsInPool:1 receivePrefixLength:4 sendPrefixLength:4 bufferSize:1024 maxDataLength: 10485760
+socketMethods 24:
+Method - DocFavoritesInsert
+Method - DocFavoritesDelete
+Method - DocGetFavouriteStatusByYGDocSPGUIDS
+Method - DocFavGetMyFav
+Method - DocInfo_GetByPage_MyDeleted
+Method - DocInfo_GetByPageMyUpLoad
+Method - DocInfo_RenameItem
+Method - DocInfo_RestoreRecycleItems
+Method - DocDeleteGUIDS
+Method - DocDeleteRecycle
+Method - DocEmptyRecycle
+Method - DocInfoInsert
+Method - DocLibraryInsert
+Method - DocLibraryUpdate
+Method - DocLibraryDelete
+Method - DocLibraryGetItems
+Method - DocLibraryGetItem
+Method - DocLibraryOwnerInsert
+Method - DocLibraryOwnerDelete
+Method - DocProptypeInsert
+Method - DocProptypeUpdate
+Method - DocProptypeDelete
+Method - DocProptypeGetItem
+Method - DocProptypeGetItems
+2017-05-08 14:33:48,296 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server WIN-QMM13OOG62D endpoint = 0.0.0.0:20000
+2017-05-08 14:33:48,298 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Starting creation of receive/send SocketAsyncEventArgs pool
+2017-05-08 14:33:48,334 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Start listen...
+2017-05-08 14:39:05,463 [4]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server stop listening...
+2017-05-08 14:39:05,465 [4]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server stopped
+2017-05-08 14:39:17,099 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Init by SocketMethodElementCollection: Akmii.ServiceCenter.Config.SocketMethodElementCollection
+2017-05-08 14:39:17,109 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Type Akmii.YeeOffice.Document.Service.SocketServer loaded with methods:
+2017-05-08 14:39:17,109 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavoritesInsert inited.
+2017-05-08 14:39:17,110 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavoritesDelete inited.
+2017-05-08 14:39:17,110 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocGetFavouriteStatusByYGDocSPGUIDS inited.
+2017-05-08 14:39:17,110 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavGetMyFav inited.
+2017-05-08 14:39:17,110 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_GetByPage_MyDeleted inited.
+2017-05-08 14:39:17,110 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_GetByPageMyUpLoad inited.
+2017-05-08 14:39:17,110 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_RenameItem inited.
+2017-05-08 14:39:17,110 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_RestoreRecycleItems inited.
+2017-05-08 14:39:17,110 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocDeleteGUIDS inited.
+2017-05-08 14:39:17,110 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocDeleteRecycle inited.
+2017-05-08 14:39:17,110 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocEmptyRecycle inited.
+2017-05-08 14:39:17,111 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfoInsert inited.
+2017-05-08 14:39:17,111 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryInsert inited.
+2017-05-08 14:39:17,111 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryUpdate inited.
+2017-05-08 14:39:17,111 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryDelete inited.
+2017-05-08 14:39:17,111 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryGetItems inited.
+2017-05-08 14:39:17,111 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryGetItem inited.
+2017-05-08 14:39:17,111 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryOwnerInsert inited.
+2017-05-08 14:39:17,111 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryOwnerDelete inited.
+2017-05-08 14:39:17,112 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeInsert inited.
+2017-05-08 14:39:17,112 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeUpdate inited.
+2017-05-08 14:39:17,112 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeDelete inited.
+2017-05-08 14:39:17,112 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeGetItem inited.
+2017-05-08 14:39:17,112 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeGetItems inited.
+2017-05-08 14:39:17,112 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method SocketInitContext is not loaded due to incompatibility. Retuen type:Akmii.YeeOffice.Document.Service.ManageContext Param Count:1
+2017-05-08 14:39:17,113 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method SocketInitContext is not loaded due to incompatibility. Retuen type:Akmii.YeeOffice.Document.Service.ManageContext Param Count:1
+2017-05-08 14:39:17,113 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Init completed with 24 methods.
+2017-05-08 14:39:17,114 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - SocketServer initialized with settings: SocketServerSettings - maxNumberOfConnections:4000 maxSimultaneousAcceptOps:10 backlog:10 excessSaeaObjectsInPool:1 receivePrefixLength:4 sendPrefixLength:4 bufferSize:1024 maxDataLength: 10485760
+socketMethods 24:
+Method - DocFavoritesInsert
+Method - DocFavoritesDelete
+Method - DocGetFavouriteStatusByYGDocSPGUIDS
+Method - DocFavGetMyFav
+Method - DocInfo_GetByPage_MyDeleted
+Method - DocInfo_GetByPageMyUpLoad
+Method - DocInfo_RenameItem
+Method - DocInfo_RestoreRecycleItems
+Method - DocDeleteGUIDS
+Method - DocDeleteRecycle
+Method - DocEmptyRecycle
+Method - DocInfoInsert
+Method - DocLibraryInsert
+Method - DocLibraryUpdate
+Method - DocLibraryDelete
+Method - DocLibraryGetItems
+Method - DocLibraryGetItem
+Method - DocLibraryOwnerInsert
+Method - DocLibraryOwnerDelete
+Method - DocProptypeInsert
+Method - DocProptypeUpdate
+Method - DocProptypeDelete
+Method - DocProptypeGetItem
+Method - DocProptypeGetItems
+2017-05-08 14:39:17,116 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server WIN-QMM13OOG62D endpoint = 0.0.0.0:20000
+2017-05-08 14:39:17,118 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Starting creation of receive/send SocketAsyncEventArgs pool
+2017-05-08 14:39:17,155 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Start listen...
+2017-05-08 14:41:17,255 [8]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server stop listening...
+2017-05-08 14:41:17,258 [8]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server stopped
+2017-05-08 14:41:27,701 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Init by SocketMethodElementCollection: Akmii.ServiceCenter.Config.SocketMethodElementCollection
+2017-05-08 14:41:27,711 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Type Akmii.YeeOffice.Document.Service.SocketServer loaded with methods:
+2017-05-08 14:41:27,711 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavoritesInsert inited.
+2017-05-08 14:41:27,711 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavoritesDelete inited.
+2017-05-08 14:41:27,712 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocGetFavouriteStatusByYGDocSPGUIDS inited.
+2017-05-08 14:41:27,712 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavGetMyFav inited.
+2017-05-08 14:41:27,712 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_GetByPage_MyDeleted inited.
+2017-05-08 14:41:27,712 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_GetByPageMyUpLoad inited.
+2017-05-08 14:41:27,712 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_RenameItem inited.
+2017-05-08 14:41:27,712 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_RestoreRecycleItems inited.
+2017-05-08 14:41:27,713 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocDeleteGUIDS inited.
+2017-05-08 14:41:27,713 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocDeleteRecycle inited.
+2017-05-08 14:41:27,713 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocEmptyRecycle inited.
+2017-05-08 14:41:27,713 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfoInsert inited.
+2017-05-08 14:41:27,713 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryInsert inited.
+2017-05-08 14:41:27,713 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryUpdate inited.
+2017-05-08 14:41:27,713 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryDelete inited.
+2017-05-08 14:41:27,714 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryGetItems inited.
+2017-05-08 14:41:27,714 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryGetItem inited.
+2017-05-08 14:41:27,714 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryOwnerInsert inited.
+2017-05-08 14:41:27,714 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryOwnerDelete inited.
+2017-05-08 14:41:27,714 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeInsert inited.
+2017-05-08 14:41:27,714 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeUpdate inited.
+2017-05-08 14:41:27,715 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeDelete inited.
+2017-05-08 14:41:27,715 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeGetItem inited.
+2017-05-08 14:41:27,715 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeGetItems inited.
+2017-05-08 14:41:27,715 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method SocketInitContext is not loaded due to incompatibility. Retuen type:Akmii.YeeOffice.Document.Service.ManageContext Param Count:1
+2017-05-08 14:41:27,716 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method SocketInitContext is not loaded due to incompatibility. Retuen type:Akmii.YeeOffice.Document.Service.ManageContext Param Count:1
+2017-05-08 14:41:27,716 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Init completed with 24 methods.
+2017-05-08 14:41:27,717 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - SocketServer initialized with settings: SocketServerSettings - maxNumberOfConnections:4000 maxSimultaneousAcceptOps:10 backlog:10 excessSaeaObjectsInPool:1 receivePrefixLength:4 sendPrefixLength:4 bufferSize:1024 maxDataLength: 10485760
+socketMethods 24:
+Method - DocFavoritesInsert
+Method - DocFavoritesDelete
+Method - DocGetFavouriteStatusByYGDocSPGUIDS
+Method - DocFavGetMyFav
+Method - DocInfo_GetByPage_MyDeleted
+Method - DocInfo_GetByPageMyUpLoad
+Method - DocInfo_RenameItem
+Method - DocInfo_RestoreRecycleItems
+Method - DocDeleteGUIDS
+Method - DocDeleteRecycle
+Method - DocEmptyRecycle
+Method - DocInfoInsert
+Method - DocLibraryInsert
+Method - DocLibraryUpdate
+Method - DocLibraryDelete
+Method - DocLibraryGetItems
+Method - DocLibraryGetItem
+Method - DocLibraryOwnerInsert
+Method - DocLibraryOwnerDelete
+Method - DocProptypeInsert
+Method - DocProptypeUpdate
+Method - DocProptypeDelete
+Method - DocProptypeGetItem
+Method - DocProptypeGetItems
+2017-05-08 14:41:27,719 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server WIN-QMM13OOG62D endpoint = 0.0.0.0:20000
+2017-05-08 14:41:27,721 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Starting creation of receive/send SocketAsyncEventArgs pool
+2017-05-08 14:41:27,757 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Start listen...
+2017-05-08 14:45:10,650 [8]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server stop listening...
+2017-05-08 14:45:10,653 [8]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server stopped
+2017-05-08 14:45:24,358 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Init by SocketMethodElementCollection: Akmii.ServiceCenter.Config.SocketMethodElementCollection
+2017-05-08 14:45:24,374 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Type Akmii.YeeOffice.Document.Service.SocketServer loaded with methods:
+2017-05-08 14:45:24,374 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavoritesInsert inited.
+2017-05-08 14:45:24,374 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavoritesDelete inited.
+2017-05-08 14:45:24,374 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocGetFavouriteStatusByYGDocSPGUIDS inited.
+2017-05-08 14:45:24,375 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocFavGetMyFav inited.
+2017-05-08 14:45:24,375 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_GetByPage_MyDeleted inited.
+2017-05-08 14:45:24,375 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_GetByPageMyUpLoad inited.
+2017-05-08 14:45:24,375 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_RenameItem inited.
+2017-05-08 14:45:24,375 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfo_RestoreRecycleItems inited.
+2017-05-08 14:45:24,376 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocDeleteGUIDS inited.
+2017-05-08 14:45:24,376 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocDeleteRecycle inited.
+2017-05-08 14:45:24,376 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocEmptyRecycle inited.
+2017-05-08 14:45:24,376 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocInfoInsert inited.
+2017-05-08 14:45:24,376 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryInsert inited.
+2017-05-08 14:45:24,376 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryUpdate inited.
+2017-05-08 14:45:24,377 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryDelete inited.
+2017-05-08 14:45:24,377 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryGetItems inited.
+2017-05-08 14:45:24,377 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryGetItem inited.
+2017-05-08 14:45:24,377 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryOwnerInsert inited.
+2017-05-08 14:45:24,377 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocLibraryOwnerDelete inited.
+2017-05-08 14:45:24,377 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeInsert inited.
+2017-05-08 14:45:24,378 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeUpdate inited.
+2017-05-08 14:45:24,378 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeDelete inited.
+2017-05-08 14:45:24,378 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeGetItem inited.
+2017-05-08 14:45:24,378 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method DocProptypeGetItems inited.
+2017-05-08 14:45:24,378 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method SocketInitContext is not loaded due to incompatibility. Retuen type:Akmii.YeeOffice.Document.Service.ManageContext Param Count:1
+2017-05-08 14:45:24,379 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Method SocketInitContext is not loaded due to incompatibility. Retuen type:Akmii.YeeOffice.Document.Service.ManageContext Param Count:1
+2017-05-08 14:45:24,380 [6]DEBUG Akmii.ServiceCenter.Model.SocketMethodDictionary - Init completed with 24 methods.
+2017-05-08 14:45:24,382 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - SocketServer initialized with settings: SocketServerSettings - maxNumberOfConnections:4000 maxSimultaneousAcceptOps:10 backlog:10 excessSaeaObjectsInPool:1 receivePrefixLength:4 sendPrefixLength:4 bufferSize:1024 maxDataLength: 10485760
+socketMethods 24:
+Method - DocFavoritesInsert
+Method - DocFavoritesDelete
+Method - DocGetFavouriteStatusByYGDocSPGUIDS
+Method - DocFavGetMyFav
+Method - DocInfo_GetByPage_MyDeleted
+Method - DocInfo_GetByPageMyUpLoad
+Method - DocInfo_RenameItem
+Method - DocInfo_RestoreRecycleItems
+Method - DocDeleteGUIDS
+Method - DocDeleteRecycle
+Method - DocEmptyRecycle
+Method - DocInfoInsert
+Method - DocLibraryInsert
+Method - DocLibraryUpdate
+Method - DocLibraryDelete
+Method - DocLibraryGetItems
+Method - DocLibraryGetItem
+Method - DocLibraryOwnerInsert
+Method - DocLibraryOwnerDelete
+Method - DocProptypeInsert
+Method - DocProptypeUpdate
+Method - DocProptypeDelete
+Method - DocProptypeGetItem
+Method - DocProptypeGetItems
+2017-05-08 14:45:24,384 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server WIN-QMM13OOG62D endpoint = 0.0.0.0:20000
+2017-05-08 14:45:24,387 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Starting creation of receive/send SocketAsyncEventArgs pool
+2017-05-08 14:45:24,438 [6]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Start listen...
+2017-05-08 14:48:05,664 [8]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server stop listening...
+2017-05-08 14:48:05,666 [8]DEBUG Akmii.ServiceCenter.SocketServer.SocketServer - Server stopped
