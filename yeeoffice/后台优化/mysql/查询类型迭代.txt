@@ -1,0 +1,22 @@
+BEGIN
+	#Routine body goes here...
+SET @PARENT =856763041474285568;
+SET @Num = 0;
+SET @RESULT ="";
+
+SELECT count(*) into @Num  from  yeeoffice_doc_proptype where DocPropParentID =  @PARENT;
+select @Num;
+
+WHILE @Num > 0 do 
+SELECT YGDocPropID,COUNT(*) into @PARENT, @Num from yeeoffice_doc_proptype WHERE DocPropParentID = @PARENT;
+	IF  
+			@Num >0
+	then 
+	SET
+		@PARENT = @PARENT + CONCAT(@PARENT,',');
+	ELSE
+		SELECT @RESULT;
+	END IF;
+end WHILE;
+SELECT @PARENT;
+END

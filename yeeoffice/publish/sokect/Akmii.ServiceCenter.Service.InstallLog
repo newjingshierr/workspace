@@ -1,0 +1,100 @@
+﻿Installing assembly 'C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.InstallLog
+   assemblypath = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe
+Installing service Akmii.Document.Enzo...
+Service Akmii.Document.Enzo has been successfully installed.
+Creating EventLog source Akmii.Document.Enzo in log Application...
+Committing assembly 'C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.InstallLog
+   assemblypath = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe
+Uninstalling assembly 'C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.InstallLog
+   assemblypath = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe
+Removing EventLog source Akmii.Document.Enzo.
+Service Akmii.Document.Enzo is being removed from the system...
+Service Akmii.Document.Enzo was successfully removed from the system.
+Attempt to stop service Akmii.Document.Enzo.
+Installing assembly 'C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.InstallLog
+   assemblypath = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe
+Installing service Akmii.Document.Enzo...
+Service Akmii.Document.Enzo has been successfully installed.
+Creating EventLog source Akmii.Document.Enzo in log Application...
+Committing assembly 'C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.InstallLog
+   assemblypath = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe
+Uninstalling assembly 'C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.InstallLog
+   assemblypath = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe
+Removing EventLog source Akmii.Document.Enzo.
+Service Akmii.Document.Enzo is being removed from the system...
+Service Akmii.Document.Enzo was successfully removed from the system.
+Attempt to stop service Akmii.Document.Enzo.
+Installing assembly 'C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.InstallLog
+   assemblypath = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe
+Installing service Akmii.Document.Enzo...
+Service Akmii.Document.Enzo has been successfully installed.
+Creating EventLog source Akmii.Document.Enzo in log Application...
+Committing assembly 'C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.InstallLog
+   assemblypath = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe
+Uninstalling assembly 'C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.InstallLog
+   assemblypath = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe
+Removing EventLog source Akmii.Document.Enzo.
+Service Akmii.Document.Enzo is being removed from the system...
+Service Akmii.Document.Enzo was successfully removed from the system.
+Installing assembly 'C:\publish\document3.0\services\Akmii.ServiceCenter.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\publish\document3.0\services\Akmii.ServiceCenter.Service.InstallLog
+   assemblypath = C:\publish\document3.0\services\Akmii.ServiceCenter.Service.exe
+Installing service Akmii.Document.Enzo...
+Service Akmii.Document.Enzo has been successfully installed.
+Creating EventLog source Akmii.Document.Enzo in log Application...
+Committing assembly 'C:\publish\document3.0\services\Akmii.ServiceCenter.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\publish\document3.0\services\Akmii.ServiceCenter.Service.InstallLog
+   assemblypath = C:\publish\document3.0\services\Akmii.ServiceCenter.Service.exe
+Uninstalling assembly 'C:\publish\document3.0\services\Akmii.ServiceCenter.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\publish\document3.0\services\Akmii.ServiceCenter.Service.InstallLog
+   assemblypath = C:\publish\document3.0\services\Akmii.ServiceCenter.Service.exe
+Removing EventLog source Akmii.Document.Enzo.
+Service Akmii.Document.Enzo is being removed from the system...
+Service Akmii.Document.Enzo was successfully removed from the system.
+Attempt to stop service Akmii.Document.Enzo.
+Installing assembly 'C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.InstallLog
+   assemblypath = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe
+Installing service Akmii.Document.Enzo...
+Service Akmii.Document.Enzo has been successfully installed.
+Creating EventLog source Akmii.Document.Enzo in log Application...
+Committing assembly 'C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.InstallLog
+   assemblypath = C:\workspace\akmii-yeeoffice-document\Akmii.Yeeoffice.Document\Akmii.YeeOffice.Management.Service\bin\Debug\Akmii.ServiceCenter.Service.exe

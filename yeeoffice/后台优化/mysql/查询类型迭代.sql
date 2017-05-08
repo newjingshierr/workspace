@@ -1,0 +1,15 @@
+BEGIN
+
+SET @RESULT ="";
+SET @PARENTTEMP =856763041474285568;
+SET @NUM =1;
+
+WHILE @PARENTTEMP is not NULL do 
+SET @RESULT = CONCAT(@RESULT,',',@PARENTTEMP);
+SELECT YGDocPropID,COUNT(*) into @PARENTTEMP,@NUM from yeeoffice_doc_proptype WHERE DocPropParentID = @PARENTTEMP;
+if @NUM =0 then 
+set @PARENTTEMP = NULL;
+end if;
+end WHILE;
+select @RESULT;
+END
